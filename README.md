@@ -1,5 +1,4 @@
 <html>
-    <title>магазин петард</title>
     <body style="beckground:black;font-family:sans-serif;">
     <nav>
      <a href="">продукйя</a>
